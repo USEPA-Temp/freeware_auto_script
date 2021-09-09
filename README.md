@@ -13,7 +13,7 @@ Please let me know if you need EISD machine support added
 To use it:
 
 * You will need selenium installed as well as chromedriver.
-* You will need to edit this file and change it to match your configuration
+* You will need to edit `freeware_auto_script.py` and change it to match your configuration (supervisor's name, etc)
 * You will need a file that looks like this:
     ```
     homebrew # Homebrew allows convinence installation and updates of software. Without this utility it would be difficult if not impossible to keep my software up to date. It avoids admin rights and installs software in a user-writable location /opt/homebrew/
