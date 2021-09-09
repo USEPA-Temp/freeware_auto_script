@@ -12,7 +12,7 @@ Please let me know if you need EISD machine support added
 
 To use it:
 
-* You will need selenium installed as as as chromedriver.
+* You will need selenium installed as well as chromedriver.
 * You will need to edit this file and change it to match your configuration
 * You will need a file that looks like this:
     ```
